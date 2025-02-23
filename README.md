@@ -1,5 +1,8 @@
 # 👋 Привет, я Dmitry!
-![GitHub Banner(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhwOTZueTIxNWp1b2lyajV4Y3UwNGI2Nm52cG5kOXc3OGpjbmFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+![GitHub Banner](https://your-banner-url.com)
 
 <!-- ## 🚀 О себе -->
 <!-- - 🔭 Работаю с: **Node.js, API, Backend** -->
