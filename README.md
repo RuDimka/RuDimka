@@ -23,5 +23,4 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
 
-![Snake animation](https://github.com/RuDimka/RuDimka/blob/output/github-contribution-grid-snake.svg)
 
