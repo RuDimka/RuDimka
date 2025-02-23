@@ -17,8 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="NodeJS" alt="PostgeSQL" width="40" height="40"/>&nbsp;
 
 
-<!-- ## 📊 GitHub Статистика -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark) -->
+## 📊 GitHub Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark) -->
 
