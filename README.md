@@ -23,10 +23,5 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
 
-<!-- ## ✨ Анимации и динамика -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark) -->
-<!-- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark) -->
+![Snake animation](https://github.com/RuDimka/RuDimka/blob/output/github-contribution-grid-snake.svg)
 
-<!-- ## 🌍 Где меня найти -->
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername) -->
