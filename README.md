@@ -3,8 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### 💬 Случайная цитата  
-![Quote](https://github-readme-quote.vercel.app/api?lang=ru&theme=radical)
+
 
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
  
@@ -28,6 +27,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
+
+### 💬 Случайная цитата  
+![Quote](https://github-readme-quote.vercel.app/api?lang=ru&theme=radical)
 
 
 ### 😂 Мем дня  
