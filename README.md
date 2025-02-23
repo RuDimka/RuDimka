@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=radical" alt="GitHub Streak" style="margin-right: 40px;"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=radical" alt="GitHub Streak" style="margin-right: 20px;"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 <!-- ## ✨ Анимации и динамика -->
