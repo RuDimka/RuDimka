@@ -28,12 +28,6 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
 
-### 💬 Случайная цитата  
-![Quote](https://github-readme-quote.vercel.app/api?lang=ru&theme=radical)
-
-
-### 😂 Мем дня  
-![Мем](https://source.unsplash.com/random/500x300)
-
-
+### 🎮 Играй в змейку!  
+![Snake Game](https://github.com/RuDimka/RuDimka/blob/main/snake.gif)
 
