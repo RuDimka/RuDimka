@@ -26,3 +26,5 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RuDimka&repo=update_stock_apiDekomo_project&theme=radical)](https://github.com/RuDimka/ТВОЙ_РЕПОЗИТОРИЙ)
