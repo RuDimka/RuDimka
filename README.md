@@ -26,5 +26,13 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
+### 🎮 Играй в динозаврика!
+<details>
+  <summary>Нажми, чтобы играть 🦖</summary>
+  <p>
+    <a href="https://chromedino.com/" target="_blank">
+      <img src="https://github.com/prkprime/chrome-dino-game/blob/main/dino.gif?raw=true" width="500"/>
+    </a>
+  </p>
+</details>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RuDimka&repo=update_stock_apiDekomo_project&theme=radical)](https://github.com/RuDimka/update_stock_apiDekomo_project)
