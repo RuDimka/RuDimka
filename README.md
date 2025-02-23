@@ -18,9 +18,7 @@
 
 
 ## 📊 GitHub Статистика
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=github-dark-dimmed)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=github-dark-dimmed)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## ✨ Анимации и динамика -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark) -->
