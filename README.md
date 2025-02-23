@@ -18,7 +18,7 @@
 
 
 ## 📊 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark) -->
 
