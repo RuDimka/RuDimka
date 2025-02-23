@@ -18,9 +18,9 @@
 
 ## 📊 GitHub Statistics
 <div align="center">
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=radical" alt="GitHub Streak" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=radical" alt="GitHub Streak" width="400"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="400"/>
 </div>
 
 <!-- ## ✨ Анимации и динамика -->
