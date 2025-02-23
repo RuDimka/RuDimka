@@ -26,13 +26,10 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
-### 🎮 Играй в динозаврика!
-<details>
-  <summary>Нажми, чтобы играть 🦖</summary>
-  <p>
-    <a href="https://chromedino.com/" target="_blank">
-      <img src="https://github.com/prkprime/chrome-dino-game/blob/main/dino.gif?raw=true" width="500"/>
-    </a>
-  </p>
-</details>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+### 📅 Сегодня:  
+![Дата и время](https://readme-time.vercel.app/api?timezone=Europe/Moscow)
+
 
