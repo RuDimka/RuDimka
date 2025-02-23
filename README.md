@@ -17,8 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="NodeJS" alt="PostgeSQL" width="40" height="40"/>&nbsp;
 
 ## 📊 GitHub Statistics
-<div align="center">
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=radical" alt="GitHub Streak" style="margin-right: 20px;"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com?user=RuDimka&theme=radical" alt="GitHub Streak" />
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
