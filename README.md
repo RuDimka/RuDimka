@@ -1,7 +1,6 @@
 # 👋 Привет, я Dmitry!
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  ![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Код+это+искусство!+💻;Создавай+что-то+уникальное!+🚀)
 </div>
 
  ## 🚀 About me<br>
@@ -24,5 +23,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=RuDimka&color=brightgreen)
 
 
