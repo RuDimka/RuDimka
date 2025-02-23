@@ -1,4 +1,6 @@
 # 👋 Привет, я Dmitry!
+### 🚀 Добро пожаловать!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Привет!+Я+Dmitry;Я+Backend-разработчик;Люблю+Node.js+и+API!)](https://git.io/typing-svg)
  ![Profile Views](https://komarev.com/ghpvc/?username=RuDimka&color=brightgreen)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -28,6 +30,4 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
 
-### 🎮 Играй в змейку!  
-![Snake Game](https://github.com/RuDimka/RuDimka/blob/main/snake.gif)
 
