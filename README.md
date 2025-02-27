@@ -38,5 +38,8 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDimka&layout=compact&theme=radical" alt="Top Langs" width="350"/>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/RuDimka.svg)](https://wakatime.com/@RuDimka)
+
+
 
 
