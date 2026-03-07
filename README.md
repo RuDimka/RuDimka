@@ -12,7 +12,7 @@
 </div>
  
  ## 🚀 About me<br>
-- 🔭 Работаю с: **Python, API, SQL, Backend**<br>
+- 🔭 Работаю с: **Go, API, SQL, Backend**<br>
 - 💡 Интересуюсь: **автоматизацией, интеграциями API, разработкой бэкенда**<br>
 <!-- - 📫 Как связаться: [Telegram](https://t.me/yourusername) | [Email](mailto:your@email.com) -->
 
