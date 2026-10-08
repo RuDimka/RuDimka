@@ -1,36 +1,26 @@
-<div align="center">
-
-<h1>Привет! Я Дмитрий 👋</h1>
-
-<p><strong>Python · автоматизация · парсинг данных</strong></p>
-
-<p>Создаю практичные инструменты, которые берут на себя рутинные задачи:<br>
-собирают данные, обрабатывают их и помогают быстрее получать нужный результат.</p>
-
-<p>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
-  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="https://github.com/RuDimka"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Дмитрий — Python, автоматизация и парсинг данных" width="100%">
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Automation-2D6A4F?style=flat-square" alt="Automation">
+  <img src="https://img.shields.io/badge/Data%20parsing-6C63FF?style=flat-square" alt="Data parsing">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
+</p>
 
----
+<br>
 
-## Чем занимаюсь
+<table>
+  <tr>
+    <td width="50%"><strong>⚙️ Автоматизация</strong><br>Скрипты и инструменты для повторяющихся задач.</td>
+    <td width="50%"><strong>🔎 Парсеры и данные</strong><br>Сбор, обработка и подготовка информации.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>🔗 Интеграции</strong><br>Связь сервисов и отдельных частей рабочего процесса.</td>
+    <td width="50%"><strong>🐍 Основной инструмент</strong><br>Python — для практичных решений без лишней сложности.</td>
+  </tr>
+</table>
 
-- **Автоматизация** — скрипты и небольшие инструменты для повторяющихся задач.
-- **Парсинг и сбор данных** — получение информации из веб-источников и её подготовка к дальнейшей работе.
-- **Обработка данных** — преобразование, проверка и формирование удобного результата.
-- **Интеграции** — соединение отдельных инструментов и сервисов в понятный рабочий процесс.
-
-## Как это обычно устроено
-
-```mermaid
-flowchart LR
-    A[Источник данных] --> B[Сбор]
-    B --> C[Обработка на Python]
-    C --> D[Готовый результат]
-```
-
-Стараюсь делать решения понятными и полезными в повседневной работе — без лишней сложности.
+<p align="center"><sub>Делаю инструменты, которые освобождают время для более важных задач.</sub></p>
